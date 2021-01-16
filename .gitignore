@@ -1,1 +1,6 @@
-/exampleFile.txt
+exampleFile.txt
+log/
+build/
+*pdf
+*tmp
+*log

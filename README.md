@@ -1,1 +1,1 @@
-This is readme file initialized by me manually
+This is readme file initialized by me manually in second repository
